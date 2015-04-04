@@ -1,1 +1,3 @@
-printf('ÄãºÃ£¬ÊÀ½ç£¡')
+#1/user/bin/env python
+printf('hello,world')
+
